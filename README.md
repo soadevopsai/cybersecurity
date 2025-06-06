@@ -1,2 +1,2 @@
-# Cybersecurity
-running sample program helloworld.py
+# CyberSecurity
+Sample Program
